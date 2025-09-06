@@ -50,4 +50,5 @@ This project is based on the paper:
 }
 ```
 
-This project was done as part of the course "Advanced Topics in Learning and Games" (Course No. 03684251) at Tel Aviv University.
+This project was done as part of the course "Advanced Topics in the Connection Between Computational Learning and Game
+Theories" (Course No. 03684251) at Tel Aviv University.
